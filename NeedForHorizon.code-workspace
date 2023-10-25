@@ -1,0 +1,26 @@
+{
+	"folders": [
+		{
+			"name": "NeedForHorizon",
+			"path": "."
+		},
+		{
+			"name": "UE5",
+			"path": "D:\\Games\\Unreal\\UE_5.2"
+		}
+	],
+	"settings": {
+		"typescript.tsc.autoDetect": "off",
+		"files.associations": {
+			"adolcforward": "cpp",
+			"complex": "cpp",
+			"valarray": "cpp"
+		}
+	},
+	"extensions": {
+		"recommendations": [
+			"ms-vscode.cpptools",
+			"ms-dotnettools.csharp"
+		]
+	}
+}
